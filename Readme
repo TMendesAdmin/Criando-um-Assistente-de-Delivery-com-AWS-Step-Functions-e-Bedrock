@@ -1,1 +1,10 @@
+Na aula, o professor Felipão demonstrou como utilizar o Step Functions para criar um consultor gastronômico automatizado. O projeto simula uma experiência de jantar romântico em Paris, onde o sistema auxilia na escolha do prato, da bebida e da localização do restaurante.
+Os tópicos abordados incluíram:
+ •	Introdução ao Step Functions: Apresentação das principais funcionalidades e aplicações.
+ •	Pré-requisitos: Conhecimentos e configurações necessárias para uso da ferramenta.
+ •	Página oficial e documentação: Orientações sobre como acessar e explorar a documentação oficial do Step Functions.
+ •	Templates: Exploração dos modelos prontos para facilitar a criação de modelos workflows.
+ •  Workflow Studio e ASL (Amazon States Language): Apresentação do ambiente de design visual (Workflow Studio) e da linguagem ASL para definição de workflows.
+ •	Precificação e Custos: Informações sobre os custos associados ao uso do Step Functions.
+ •	Projeto Final: Desenvolvimento do consultor gastronômico, integrando as funcionalidades aprendidas.
 
